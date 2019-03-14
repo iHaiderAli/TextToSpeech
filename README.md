@@ -13,3 +13,4 @@ yarn run start
 ```
 
 Open another terminal and run `react-native run-ios --device "YOUR_DEVICE_NAME"` or `react-native run-android`
+# TextToSpeech
